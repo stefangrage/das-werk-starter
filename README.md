@@ -10,7 +10,7 @@
 1. Fork og klon projekt via GitHub
 2. Åbn Terminalen i VS Code
 3. Kør dev-server via Terminalen
-4. Brug Tailwind
+4. Tilpas sitet, så det får en masse "surface surprise and delight"
 
 ---
 
